@@ -26,7 +26,10 @@ struct bigint {
 		return *this;
 	}
 	bigint& operator = (int x) {
-		s = (x < 0), h = 0;
+		memset(a, 0, sizeof a);
+		if (x < 0) s = 1, x = -x;
+		else s = 0;
+		h = 0;
 		while (x) a[h++] = x % 10000, x /= 10000;
 		if (h) h--;
 		return *this;
