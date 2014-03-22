@@ -57,7 +57,7 @@ Andrew Stankevich Contest
 Petrozavodsk Winter Training Camp 2011
 ----------------------------------------------------------
 
-* [Saratov SU Contest](http://codeforces.com/gym/100026)
+* [~~Saratov SU Contest~~](http://codeforces.com/gym/100026)
 
 * [Perm SU Contest](http://acm.math.spbu.ru:8087/~ejudge/team.cgi?contest_id=1372)
 
