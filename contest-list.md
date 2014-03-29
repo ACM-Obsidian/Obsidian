@@ -3,9 +3,9 @@ World Final
 
 * [~~World Final 2005~~](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=39)
 
-* [world Final 2006](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=40)
+* [~~world Final 2006~~](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=40)
 
-* [world Final 2007](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=41)
+* [~~world Final 2007~~](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=41)
 
 * [world Final 2008](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=42)
 
@@ -108,4 +108,4 @@ Other Training Camp
 
 * [Petrozavodsk Summer Training Camp 2009, Goryinyich Challenge X](http://codeforces.com/gym/100206)
 
-* [Petrozavodsk Summer Training Camp 2010, Kyiv NU Contest](http://codeforces.com/gym/100020)
+* [~~Petrozavodsk Summer Training Camp 2010, Kyiv NU Contest~~](http://codeforces.com/gym/100020)
