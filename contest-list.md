@@ -102,7 +102,7 @@ Petrozavodsk Summer Training Camp 2011
 Other Training Camp
 ------------------------------------------------
 
-* [Petrozavodsk Winter Training Camp 2012, Saratov SU Contest](http://codeforces.com/gym/100162)
+* [~~Petrozavodsk Winter Training Camp 2012, Saratov SU Contest~~](http://codeforces.com/gym/100162)
 
 * [Petrozavodsk Winter Training Camp 2010, Saratov SU Contest](http://codeforces.com/gym/100016)
 
