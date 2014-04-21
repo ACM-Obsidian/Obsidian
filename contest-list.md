@@ -11,7 +11,7 @@ World Final
 
 * [~~world Final 2009~~](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=43)
 
-* [world Final 2010](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=44)
+* [~~world Final 2010~~](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=44)
 
 * [world Final 2011](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=45)
 
