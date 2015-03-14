@@ -18,13 +18,6 @@ inline void addTimes (int a[], int b[], int k, int n) {
 	}
 }
 inline int determint (int a[][N], int n) {
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < n; j++) {
-			printf("%4d ", a[i][j] == mod - 1 ? -1 : a[i][j]);
-		}
-		printf("\n");
-	}
-
 	int ans = 1;
 	for (int i = 0; i < n; i++) {
 		int piv = -1;
@@ -68,12 +61,9 @@ int dy[4] = {-1, 1, 0, 0};
 
 char map[N][N];
 
-int H[6][N] = {{1, 0, 1, 0, 2, 0}, {0, 1, 0, 2, 0, 3}, {1, 0, 2, 0, 3, 0}, {0, 2, 0, 3, 0, 4}, {2, 0, 3, 0, 4, 0}, {0, 3, 0, 4, 0, 6}};
-
 int main () {
-	printf("%d\n", determint(H, 6));
-	// freopen("join.in", "r", stdin);
-	// freopen("join.out", "w", stdout);
+	freopen("join.in", "r", stdin);
+	freopen("join.out", "w", stdout);
 	while (scanf("%d %d", &n, &m) == 2) {
 		for (int i = 0; i < n; i++) scanf("%s", map[i]);
 		int crdtop = 0;
